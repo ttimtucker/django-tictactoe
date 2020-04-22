@@ -6,35 +6,52 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #444444;
+  font-size: 20px;
+  font-style: italic;
 }
 
 ul {
   margin: 0;
 }
 
-button.btnreset {
-      background: lightblue;
+.btnreset {
       color: blue;
-      width: 100px;
-      height: 100px;
-      line-height: 1em;  /*  <-- this was it ! */
-      vertical-align: middle;
-      position:relative;
-      font-size: 30px;
+      background: lightgreen
 }
 
 
-button.btn {
-      background: lightgreen;
+.btn {
+      background: lightblue;
+      width: 75px;
+      height: 50px;
+      border: 2px solid black;
+      box-shadow: 0 5px #666;
+}
+
+/*
+.btnreset {
+      background: lightred;
+      color: blue;
+      width: 150px;
+      height: 50px;
+      line-height: 1em;
+      vertical-align: middle;
+      position:relative;
+      font-size: 20px;
+}
+
+
+.btn {
+      background: lightred;
       color: green;
       width: 100px;
       height: 100px;
-      line-height: 1em;  /*  <-- this was it ! */
+      line-height: 1em;
       vertical-align: middle;
       position:relative;
       font-size: 30px;
 }
-
+*/
 
 
 .bg-steel {

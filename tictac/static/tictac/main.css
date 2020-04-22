@@ -39,24 +39,23 @@ ul {
 .btnreset {
       background: lightred;
       color: blue;
-      width: 100px;
-      height: 100px;
-      line-height: 1em;  /*  <-- this was it ! */
+      width: 10px;
+      height: 10px;
       vertical-align: middle;
       position:relative;
-      font-size: 30px;
+      font-size: 5px;
 }
 
 
 button.btn {
       background: lightgreen;
       color: green;
-      width: 100px;
-      height: 100px;
+      width: 10px;
+      height: 10x;
       line-height: 1em;  /*  <-- this was it ! */
       vertical-align: middle;
       position:relative;
-      font-size: 30px;
+      font-size: 5px;
 }
 
 

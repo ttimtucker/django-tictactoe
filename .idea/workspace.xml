@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0750438d-db3f-44b9-8753-b4c126f3cb79" name="Default Changelist" comment="" />
+    <list default="true" id="0750438d-db3f-44b9-8753-b4c126f3cb79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/games/templates/tictac/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/static/tictac/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/games/static/tictac/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/games/templates/tictac/tictactoe.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/templates/tictac/tictactoe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictac/static/tictac/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/tictac/static/tictac/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tictac/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tictac/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1amDFf8KjCRrW4P480G0Heb9N5B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,17 +37,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/games/templates/tictac" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tictac/templates/tictac" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/games/templates/tictac" />
       <recent name="$PROJECT_DIR$/games" />
       <recent name="$PROJECT_DIR$/games/templates" />
       <recent name="$PROJECT_DIR$/tictac/templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tictac/templates/tictac" />
     </key>
   </component>
   <component name="RunManager" selected="Python.ttt">
